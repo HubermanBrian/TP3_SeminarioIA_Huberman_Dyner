@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node src/main.js"
+    "start": "node src/backend && node frontend"
   },
   "author": "",
   "license": "ISC",
